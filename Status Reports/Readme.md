@@ -1,7 +1,7 @@
 # Status Reports Folder
 Weekly status reports go into this folder
 
-This Readme.md serves as the front page of this folder - update the table with very succinct weekly reports.
+This Readme.md serves as the front page of this folder - we are updating the table with very succinct weekly reports.
 
 Project Plan.md is a document that should be updated accordingly as the project develops through the year.
 
@@ -11,10 +11,10 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 
 | Document | Tasks | Accomplishments | Issues |
 |---|---|---|---|
-| Week 1 Status Report | look over projects and bid on them | submitted project bid by deadline | No problems to report! |
-| Week 2 Status Report | None| Teams were assinged| None|
-| Week 3 Status Report | First meeting as team| Started team contract, reached out to faculty advisor and technical advisor| None|
-| Week 4 Status Report | reach out to technical advisor again and respond to faculty advisor | communicated with technical advisory to understand who we would be meeting with. Updated faculty advisor and project coordinator. | None |
+| Week 1 Status Report | Look over projects and bid on them | Submitted project bid by deadline | No problems to report! |
+| Week 2 Status Report | None| Teams were assinged | None |
+| Week 3 Status Report | First meeting as team | Started team contract, reached out to faculty advisor and technical advisor | None |
+| Week 4 Status Report | Reached out to technical advisor again and responded to faculty advisor | Communicated with technical advisor to understand who we would be meeting with. Updated faculty advisor and project coordinator. | Concerned about communication related delays |
 | Week 5 Status Report | | | |
 | Week 6 Status Report | | | |
 | Week 7 Status Report | | | |

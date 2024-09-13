@@ -16,10 +16,10 @@
 - *Tamer Nadeem* - *College of Engineering* - Faculty Advisor
 
 ## 1) Accomplishments this week ##
-   - Attend lecture
+   - Teams were assigned.  
 
 ## 2) Milestones to be completed next week ##
-   - Complete project ranking
+   - Meet with team, contact faculty advisor and technical advisor, and start team contract.  
 
 ## 3) Issues, problems or concerns ##
 - None
