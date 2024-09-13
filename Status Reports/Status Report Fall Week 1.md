@@ -12,7 +12,8 @@
 - *Nibir Dhar*    - *DoD* - Technical Advisor
 
 **Faculty Advisor:**
-    - *Tamer Nadeem* - *College of Engineering* - Faculty Advisor
+
+- *Tamer Nadeem* - *College of Engineering* - Faculty Advisor
 
 ## 1) Accomplishments this week ##
    - Attend lecture
