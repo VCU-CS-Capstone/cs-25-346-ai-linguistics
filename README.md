@@ -14,7 +14,6 @@ This project spans 9 months and is focused on developing advanced live captionin
 **Note:** Commits behind this fork could be automatically synced, meaning that changes made in the template are pushed into your repo. Please do not discard commits ahead (these are the updates you make to this repository).
 
 ## Project Team
-- *Mentor's Name* - *Company Affliation* - Mentor - TBD
 - *Nibir Dhar*    - *DoD* - Technical Advisor
 - *Tamer Nadeem*  - *College of Engineering* - Faculty Advisor
 - *Nate Eldering* - *Computer Science* - Student Team Member
