@@ -11,10 +11,10 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 
 | Document | Tasks | Accomplishments | Issues |
 |---|---|---|---|
-| Week 1 Status Report | We've accomplished a lot | We'll accomplish even more | No problems to report! |
+| Week 1 Status Report | look over projects and bid on them | submitted project bid by deadline | No problems to report! |
 | Week 2 Status Report | None| Teams were assinged| None|
 | Week 3 Status Report | First meeting as team| Started team contract, reached out to faculty advisor and technical advisor| None|
-| Week 4 Status Report | | | |
+| Week 4 Status Report | reach out to technical advisor again and respond to faculty advisor | communicated with technical advisory to understand who we would be meeting with. Updated faculty advisor and project coordinator. | None |
 | Week 5 Status Report | | | |
 | Week 6 Status Report | | | |
 | Week 7 Status Report | | | |
