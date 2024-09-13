@@ -1,12 +1,15 @@
 # *CS 25-346 Project Name*
 
 **Students' Names:**
-    - *Nate Eldering* - *Computer Science* - Student Team Member
-    - *Student's Name* - *major* - Student Team Member
-    - *Student's Name* - *major* - Student Team Member
-    - *Student's Name* - *major* - Student Team Member
+
+- *Nate Eldering* - *Computer Science* - Student Team Member
+- *Allen Lee*     - *Computer Science* - Student Team Member
+- *Nathan Devore* - *Computer Science* - Student Team Member
+- *Connor Kohout* - *Computer Science* - Student Team Member
 
 **Mentor:**
+
+- *Tamer Nadeem*  - *College of Engineering* - Faculty Advisor
 
 **Faculty Advisor:**
     - *Tamer Nadeem* - *College of Engineering* - Faculty Advisor
