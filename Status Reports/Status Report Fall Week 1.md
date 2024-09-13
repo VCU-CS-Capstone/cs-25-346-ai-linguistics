@@ -9,7 +9,7 @@
 
 **Mentor:**
 
-- *Tamer Nadeem*  - *College of Engineering* - Faculty Advisor
+- *Nibir Dhar*    - *DoD* - Technical Advisor
 
 **Faculty Advisor:**
     - *Tamer Nadeem* - *College of Engineering* - Faculty Advisor
@@ -21,4 +21,4 @@
    - Complete project ranking
 
 ## 3) Issues, problems or concerns ##
-    - None
+- None
