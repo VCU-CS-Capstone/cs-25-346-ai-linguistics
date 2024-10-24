@@ -20,7 +20,7 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 | Week 7 Status Report | continue research on ASR, specifically looking into openAI whisper model as it seems to be the most robust oepn source option, meet with faculty advisory to discuss what has been done since the last time we met | Made progess on research divided tasks for the following week and for project proposal | Concerned with communcation delays from technical advisory as well as delays in project proposal |
 | Week 8 Status Report | Continue research and work on project proposal, reach out to technical advisor to set up a meeting | Continued research, reached out to technical advisory, met with faculty advisor and as a group | None |
 | Week 9 Status Report | Meet with techincal advisor, finish project proposal | met with technical advisor and finished project proposal | None |
-| Week 10 Status Report | | | |
+| Week 10 Status Report | Set up whisper model on cluster, continue to work on getting a dataset | met with advisor | None |
 | Week 11 Status Report | | | |
 | Week 12 Status Report | | | |
 | Week 13 Status Report | | | |
