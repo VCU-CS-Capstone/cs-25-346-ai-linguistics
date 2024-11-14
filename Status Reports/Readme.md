@@ -22,8 +22,8 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 | Week 9 Status Report | Meet with techincal advisor, finish project proposal | met with technical advisor and finished project proposal | None |
 | Week 10 Status Report | Set up whisper model on cluster, continue to work on getting a dataset | met with advisor | None |
 | Week 11 Status Report | Continue setting up whisper model on athena cluster, establish collborative workflow on clusters, download audio files from LiveATC.net, run tests with whisper | downloaded whsiper model on cluster and reached out to get a shared directory set up so we can work together. Downloaded audio files from LiveATC.net and ran initial tests | None |
-| Week 12 Status Report | | | |
-| Week 13 Status Report | | | |
+| Week 12 Status Report | Set up whisper on cluster run preliminary tests with the labeled audio we obtained last week | Sucsessfully got whisper running on cluster, began working on poster that is due on the 15th | None |
+| Week 13 Status Report | Score tests that were run and decide steps moving forward | Ran whisper model on athena cluster experimented with different options when running and when removing silence from audio, completed poster due on the 15h | None |
 | Week 14 Status Report | | | |
 | Week 15 Status Report | | | |
 | Week 16 Status Report | | | |
