@@ -9,7 +9,7 @@
 
 **Mentor:**
 
-- *Nibir Dhar*    - *DoD* - Technical Advisor
+- *Clinton Farrell*    - *DoD* - Technical Advisor
 
 **Faculty Advisor:**
 
