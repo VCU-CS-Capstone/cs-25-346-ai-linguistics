@@ -24,16 +24,16 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 | Week 11 Status Report | Continue setting up whisper model on athena cluster, establish collborative workflow on clusters, download audio files from LiveATC.net, run tests with whisper | downloaded whsiper model on cluster and reached out to get a shared directory set up so we can work together. Downloaded audio files from LiveATC.net and ran initial tests | None |
 | Week 12 Status Report | Set up whisper on cluster run preliminary tests with the labeled audio we obtained last week | Sucsessfully got whisper running on cluster, began working on poster that is due on the 15th | None |
 | Week 13 Status Report | Score tests that were run and decide steps moving forward | Ran whisper model on athena cluster experimented with different options when running and when removing silence from audio, completed poster due on the 15h | None |
-| Week 14 Status Report | | | |
-| Week 15 Status Report | | | |
-| Week 16 Status Report | | | |
+| Week 14 Status Report | Finish poster for fall semester expo, meet with Clinton to give updates on progress | Finished poster, met with Clinton | None |
+| Week 15 Status Report | Present poster at fall expo, began work on final project proposal | Presented poster, began work on project proposal, met with factuly advisor | None |
+| Week 16 Status Report | Finish project proposal, reach out to capstone coordinator to discuss using our budget to rent a plane to record audio | Finished project proposal | Taking longer to hoped to obtain labeled data to use to fine tune whisper model |
 
 ## Spring Semester
 
 | Document | Tasks | Accomplishments| Issues |
 |---|---|---|---|
-| Week 1 Status Report | | | |
-| Week 2 Status Report | | | |
+| Week 1 Status Report | Finalize the method we are going to use to obtain labeled data to fine tune whisper model | Reached out to capstone coordinator to discuss renting a plane | nessessary to have data collection method finalzed within the next two weeks so we can begin work on fine tuning |
+| Week 2 Status Report | Finalize method we are going to use to obtain labeled data to find tune whisper model. Finish team contract due next week | Met with factuoly advisor and as a group | Taking longer than expected to finalize method and begin work on data collection which needs to start within the next week |
 | Week 3 Status Report | | | |
 | Week 4 Status Report | | | |
 | Week 5 Status Report | | | |
