@@ -34,8 +34,8 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 |---|---|---|---|
 | Week 1 Status Report | Finalize the method we are going to use to obtain labeled data to fine tune whisper model | Reached out to capstone coordinator to discuss renting a plane | nessessary to have data collection method finalzed within the next two weeks so we can begin work on fine tuning |
 | Week 2 Status Report | Finalize method we are going to use to obtain labeled data to find tune whisper model. Finish team contract due next week | Met with factuoly advisor and as a group | Taking longer than expected to finalize method and begin work on data collection which needs to start within the next week |
-| Week 3 Status Report | Meet with Clint and give an update on what weve been working on over the break | communnicated with capstone coordinator to begin the process of renting the plane for data collection, met with Clint and gave an overview of what we have working on and what our plans are for the rest of the semester | Taking slightly longer than we had wished to organize the plane rental but at this time things are moving forward and it should be scheduled by the end of february |
-| Week 4 Status Report | | | |
+| Week 3 Status Report | Meet with Clint and give an update on what we have been working on over the break | communicated with capstone coordinator to begin the process of renting the plane for data collection, met with Clint and gave an overview of what we have been working on and what our plans are for the rest of the semester | Taking slightly longer than we had wished to organize the plane rental but at this time things are moving forward and it should be scheduled by the end of february |
+| Week 4 Status Report | Finalze plane rental scheudle and testing procedure, begin writing script to be used. | Continued communcation with capstone coordinators to organize plane rental. Completed setting up notebook to fine tune whisper model after data collection | None |
 | Week 5 Status Report | | | |
 | Week 6 Status Report | | | |
 | Week 7 Status Report | | | |
