@@ -36,9 +36,9 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 | Week 2 Status Report | Finalize method we are going to use to obtain labeled data to find tune whisper model. Finish team contract due next week | Met with factuoly advisor and as a group | Taking longer than expected to finalize method and begin work on data collection which needs to start within the next week |
 | Week 3 Status Report | Meet with Clint and give an update on what we have been working on over the break | communicated with capstone coordinator to begin the process of renting the plane for data collection, met with Clint and gave an overview of what we have been working on and what our plans are for the rest of the semester | Taking slightly longer than we had wished to organize the plane rental but at this time things are moving forward and it should be scheduled by the end of february |
 | Week 4 Status Report | Finalze plane rental scheudle and testing procedure, begin writing script to be used. | Continued communcation with capstone coordinators to organize plane rental. Completed setting up notebook to fine tune whisper model after data collection | None |
-| Week 5 Status Report | | | |
-| Week 6 Status Report | | | |
-| Week 7 Status Report | | | |
+| Week 5 Status Report | Reasses our options for data collection, meet as group and with Clint to discuss together | Met as group, decided the best route forward is to have whisper do initial trasncriptions and then manually adjust the output to be corrected labels | VCU got back about plane rental and said it is not considered a supply and our funds should not be used for that |
+| Week 6 Status Report | Begin running whisper on audio from liveATC and manually correcting | Met as a group and worked on manual corrections | Manual corrections are very time consuming it may be neccessary to develop an alterate option for fine tuneing |
+| Week 7 Status Report | Setup radio trasnmitter that was purchased and run tests with synthetic audio degradation scripts | setup radio trasnmitter and found a public dataset of labeled air traffic control audio that could be used if needed | Project is running slightly behind because of us not being allowed to rent the plane but with the current status everything should be completed when it needs to be |
 | Week 8 Status Report | | | |
 | Week 9 Status Report | | | |
 | Week 10 Status Report | | | |
