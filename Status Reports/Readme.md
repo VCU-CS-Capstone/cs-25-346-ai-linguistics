@@ -39,7 +39,7 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 | Week 5 Status Report | Reasses our options for data collection, meet as group and with Clint to discuss together | Met as group, decided the best route forward is to have whisper do initial trasncriptions and then manually adjust the output to be corrected labels | VCU got back about plane rental and said it is not considered a supply and our funds should not be used for that |
 | Week 6 Status Report | Begin running whisper on audio from liveATC and manually correcting | Met as a group and worked on manual corrections | Manual corrections are very time consuming it may be neccessary to develop an alterate option for fine tuneing |
 | Week 7 Status Report | Setup radio trasnmitter that was purchased and run tests with synthetic audio degradation scripts | setup radio trasnmitter and found a public dataset of labeled air traffic control audio that could be used if needed | Project is running slightly behind because of us not being allowed to rent the plane but with the current status everything should be completed when it needs to be |
-| Week 8 Status Report | | | |
+| Week 8 Status Report | Fine tune whisper model and audio we made last week, run tests on audio from hugging face dataset and score results | began finetuneing process and transcription of huggingface dataset | need to obtain more audio over break and start work on poster |
 | Week 9 Status Report | | | |
 | Week 10 Status Report | | | |
 | Week 11 Status Report | | | |
