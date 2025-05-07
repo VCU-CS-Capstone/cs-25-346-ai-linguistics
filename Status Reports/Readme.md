@@ -40,11 +40,11 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 | Week 6 Status Report | Begin running whisper on audio from liveATC and manually correcting | Met as a group and worked on manual corrections | Manual corrections are very time consuming it may be neccessary to develop an alterate option for fine tuneing |
 | Week 7 Status Report | Setup radio trasnmitter that was purchased and run tests with synthetic audio degradation scripts | setup radio trasnmitter and found a public dataset of labeled air traffic control audio that could be used if needed | Project is running slightly behind because of us not being allowed to rent the plane but with the current status everything should be completed when it needs to be |
 | Week 8 Status Report | Fine tune whisper model and audio we made last week, run tests on audio from hugging face dataset and score results | began finetuneing process and transcription of huggingface dataset | need to obtain more audio over break and start work on poster |
-| Week 9 Status Report | | | |
-| Week 10 Status Report | | | |
-| Week 11 Status Report | | | |
-| Week 12 Status Report | | | |
-| Week 13 Status Report | | | |
-| Week 14 Status Report | | | |
-| Week 15 Status Report | | | |
-| Week 16 Status Report | | | |
+| Week 9 Status Report | start work on poster | fine tuned again on more data | None |
+| Week 10 Status Report | Finish score accuracy for new trained model | Finish work on poster | None |
+| Week 11 Status Report | Finished poster | start work on final report | None |
+| Week 12 Status Report | made poster and practiced for presentation | get poster reader for C5ISR presentation, creare graphs to show accuracy | None |
+| Week 13 Status Report | presented for the C5ISR | get ready for capstone expo | None |
+| Week 14 Status Report | created demo for capstone expo | start work on final report | None |
+| Week 15 Status Report | attended capstone expo | finish final design report | None |
+| Week 16 Status Report | finish final design report | completed final assignments for seminar | None |
